@@ -1,0 +1,13 @@
+{
+  "id": "drive",
+  "name": "Google Drive",
+  "version": "0.0.1",
+  "description": "Google Drive for Franz",
+  "main": "index.js",
+  "author": "Joaquin Diaz <joaquin.diaz@ies.cl>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://drive.google.com",
+    "hasNotificationSound": true
+  }
+}
